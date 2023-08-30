@@ -1,5 +1,7 @@
 # Project_Capstone_2
 
+Link Tableau : https://public.tableau.com/views/Project2RyanAdhimuktiPrayitno/SupermarketCustomersStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 # Latar Belakang
 Sebuah supermarket menjual berbagai jenis produk seperti Fish, Meat, Fruits, Sweet Products, Wines, dan Gold Products. Supermarket telah melakukan beberapa kampanye dan memberikan diskon. Pendapatan marketing 11 dollar dan pengeluaran 3 dollar. Akan tetapi, pendapatan dan pengeluaran marketing tidak sesuai yang diharapkan.
 
